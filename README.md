@@ -52,8 +52,11 @@ python train.py --data data.yaml --cfg yolov5s.yaml --weights '' --batch-size 64
 
 ```
 ## <div align="center">Performances</div>
+  
 <div align="center"><img width="800" src="https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/622f62f393e4c62ec533a105576de0ac4dcecae7/metric.PNG">
+  
 ## <div align="center">Results</div>
+  
 The model manages to detect both classes of smoke in this
 <div align="center"><img width="800" src="https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/b4695b588ec7262c9af57579fab57f31383f511d/detection.PNG">
 
