@@ -35,7 +35,7 @@ results.print()  # or .show(), .save(), .crop(), .pandas(), etc.
 ## <div align="center">Dataset</div>
 we imported 12336 unlabeled images from kaggle, we labeled 100 images using two classes: 'smoke low density' and 'smoke high density'
 The same database we found already labeled, with a single class 'smoke'.
-<img width="800" src="https://user-images.githubusercontent.com/photo.PNG">
+<img width="800" src="https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/186b0cfe7133dd80eddd7a8cb64eaa3753707aa1/photo.PNG">
 ## <div align="center">Training</div>
 We installed [wandb](https://wandb.ai/site) to visualize the results directly on the website by creating an account
 ```bash
