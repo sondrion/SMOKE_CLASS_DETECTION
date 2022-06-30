@@ -1,7 +1,7 @@
 # SMOKE_CLASS_DETECTION
 ## <div align="center">Table of content</div>
-- [Install LIBRAIRIES](#Install LIBRAIRIES)
-- [load model Yolov5](#load model Yolov5)
+- [Install LIBRAIRIES](#Install-LIBRAIRIES)
+- [load Model Yolov5](#Load-Model-Yolov5)
 - [Dataset](#dataset)
 - [Training](#Training)
 - [Performances](#Performances)
