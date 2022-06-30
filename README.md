@@ -1,4 +1,3 @@
-![This figure shows different types of videos](https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/fa411b431fc188fabaa96eb7a24b291f4e111131/smoke.mp4)
 # SMOKE_CLASS_DETECTION
 ## <div align="center">Table of content</div>
 - [Install LIBRAIRIES](#Install-LIBRAIRIES)
@@ -56,7 +55,8 @@ python train.py --data data.yaml --cfg yolov5s.yaml --weights '' --batch-size 64
 <div align="center"><img width="800" src="https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/622f62f393e4c62ec533a105576de0ac4dcecae7/metric.PNG">
 
 ## <div align="center">Results</div>
-The model manages to detect both classes of smoke in this[video](https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/9553273bae6ceda5cf21e27cf2d4eef7009f08ce/smoke.mp4)
+The model manages to detect both classes of smoke in this
+  [video](https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/9553273bae6ceda5cf21e27cf2d4eef7009f08ce/smoke.mp4)
 <div align="center"><img width="800" src="https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/b4695b588ec7262c9af57579fab57f31383f511d/detection.PNG">
 
 
