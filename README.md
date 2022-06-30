@@ -1,5 +1,4 @@
 # SMOKE_CLASS_DETECTION
-<img width="800" src="https://user-images.githubusercontent.com/26833433/90222759-949d8800-ddc1-11ea-9fa1-1c97eed2b963.png">
 ## <div align="center">Table of content</div>
 - [Install LIBRAIRIES](#Install-LIBRAIRIES)
 - [Load Model Yolov5](#Load-Model-Yolov5)
