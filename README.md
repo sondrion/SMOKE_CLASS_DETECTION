@@ -1,10 +1,10 @@
 # SMOKE_CLASS_DETECTION
 ## <div align="center">Table of content</div>
-- [Install LIBRAIRIES]
-- [load model Yolov5]
+- [Install LIBRAIRIES](#Install LIBRAIRIES)
+- [load model Yolov5](#load model Yolov5)
 - [Dataset](#dataset)
-- [Training]
-- [Performances]
+- [Training](#Training)
+- [Performances](#Performances)
 ## <div align="center">Install LIBRAIRIES</div>
 Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) in a
 [**Python>=3.7.0**](https://www.python.org/) environment, including
