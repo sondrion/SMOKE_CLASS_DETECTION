@@ -1,3 +1,4 @@
+![This figure shows different types of videos](https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/fa411b431fc188fabaa96eb7a24b291f4e111131/smoke.mp4)
 # SMOKE_CLASS_DETECTION
 ## <div align="center">Table of content</div>
 - [Install LIBRAIRIES](#Install-LIBRAIRIES)
