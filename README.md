@@ -33,32 +33,7 @@ results = model(img)
 # Results
 results.print()  # or .show(), .save(), .crop(), .pandas(), etc.
 ```
-## <div align="center">Dataset</div>
-we imported 12336 unlabeled images from kaggle, we labeled 100 images using two classes: 'smoke low density' and 'smoke high density'
-The same database we found already labeled, with a single class 'smoke'.
-<div align="center"><img width="800" src="https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/186b0cfe7133dd80eddd7a8cb64eaa3753707aa1/photo.PNG">
-## <div align="center">Training</div>
-We installed [wandb](https://wandb.ai/site) to visualize the results directly on the website by creating an account
-```bash
-%pip install -q wandb
-import wandb
-wandb.login()
-```
-The commands below reproduce YOLOv5 [data](https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/89a3d7a90d613f312a9f253d2d0e2216b3b35e53/data.rar)
-results. [Models](https://github.com/ultralytics/yolov5/tree/master/models) download automatically from the latest
-YOLOv5 [release](https://github.com/ultralytics/yolov5/releases)
-```bash
-python train.py --data data.yaml --cfg yolov5s.yaml --weights '' --batch-size 64
 
-```
-## <div align="center">Performances</div>
-  
-<div align="center"><img width="800" src="https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/622f62f393e4c62ec533a105576de0ac4dcecae7/metric.PNG">
-  
-## <div align="center">Results</div>
-  
-The model manages to detect both classes of smoke in this
-<div align="center"><img width="800" src="https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/b4695b588ec7262c9af57579fab57f31383f511d/detection.PNG">
 
 
 
