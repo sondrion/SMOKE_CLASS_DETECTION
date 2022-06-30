@@ -54,8 +54,9 @@ python train.py --data data.yaml --cfg yolov5s.yaml --weights '' --batch-size 64
 ```
 ## <div align="center">Performances</div>
 <img width="800" src="https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/622f62f393e4c62ec533a105576de0ac4dcecae7/metric.PNG">
-## <div align="center">Resuls</div>
-<img width="800" src="https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/b23cf1c77c31cb0e55fbbcd1799b2d030f540a42/detection.PNG">
+
+## <div align="center">Performances</div>
+<img width="800" src="https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/b4695b588ec7262c9af57579fab57f31383f511d/detection.PNG">
 
 
 
