@@ -38,7 +38,7 @@ we imported 12336 unlabeled images from kaggle, we labeled 100 images using two 
 The same database we found already labeled, with a single class 'smoke'.
 <img width="800" src="https://user-images.githubusercontent.com/26833433/90222759-949d8800-ddc1-11ea-9fa1-1c97eed2b963.png">
 ## <div align="center">Training</div>
-We installed wandb to visualize the results directly on the website by creating an account
+We installed [wandb](https://wandb.ai/site)to visualize the results directly on the website by creating an account
 ```bash
 %pip install -q wandb
 import wandb
