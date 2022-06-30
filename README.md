@@ -43,7 +43,7 @@ We installed [wandb](https://wandb.ai/site) to visualize the results directly on
 import wandb
 wandb.login()
 ```
-The commands below reproduce YOLOv5 [data](https://github.com/sondrion/yolov5/blob/master/data/scripts/get_coco.sh)
+The commands below reproduce YOLOv5 [data](https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/89a3d7a90d613f312a9f253d2d0e2216b3b35e53/data.rar)
 results. [Models](https://github.com/ultralytics/yolov5/tree/master/models) download automatically from the latest
 YOLOv5 [release](https://github.com/ultralytics/yolov5/releases)
 ```bash
