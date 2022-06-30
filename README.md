@@ -1,4 +1,5 @@
 # SMOKE_CLASS_DETECTION
+<img width="800" src="(https://github.com/sondrion/SMOKE_CLASS_DETECTION/blob/15dc3abe765c8e7546ad63e899f1dbf3a590a45a/smoke.mp4">
 ## <div align="center">Table of content</div>
 - [Install LIBRAIRIES](#Install-LIBRAIRIES)
 - [Load Model Yolov5](#Load-Model-Yolov5)
