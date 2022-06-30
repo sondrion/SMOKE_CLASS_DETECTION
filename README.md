@@ -1,7 +1,8 @@
 # SMOKE_CLASS_DETECTION
+img = 'https://img.freepik.com/photos-gratuite/fumee-industrielle-dans-atmosphere_33799-3042.jpg?w=1380'  # or file, Path, PIL, OpenCV, numpy, list
 ## <div align="center">Table of content</div>
 - [Install LIBRAIRIES](#Install-LIBRAIRIES)
-- [load Model Yolov5](#Load-Model-Yolov5)
+- [Load Model Yolov5](#Load-Model-Yolov5)
 - [Dataset](#dataset)
 - [Training](#Training)
 - [Performances](#Performances)
